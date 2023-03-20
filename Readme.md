@@ -4,7 +4,7 @@ open the Divide_machine.py file in the directory core, in which the whole work f
 
 # work flow
 
-![](work flow.png)
+![image](work flow.png)
 
 # project structure
 
