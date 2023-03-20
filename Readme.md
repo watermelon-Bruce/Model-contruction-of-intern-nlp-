@@ -4,7 +4,7 @@ open the Divide_machine.py file in the directory core, in which the whole work f
 
 # work flow
 
-![image text](https://github.com/watermelon-Bruce/Model-contruction-of-intern-nlp-/blob/main/work flow.png)
+![image text]([Model-contruction-of-intern-nlp-/work flow.png at main · watermelon-Bruce/Model-contruction-of-intern-nlp- (github.com)](https://github.com/watermelon-Bruce/Model-contruction-of-intern-nlp-/blob/main/work flow.png))
 
 # project structure
 
